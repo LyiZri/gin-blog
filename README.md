@@ -2,6 +2,9 @@
 ## 项目介绍
 我们将使用golang+html+css+bootstrap+gin+gorm+mysql的技术栈模式，来构建一个前后端分离的博客系统
 
+## 项目启动
+>	go run main.go
+
 项目亮点
 * 不再使用传统的js+html+css三大件来取写前端页面，我们将使用go来作为前端脚本语言进行构建
 * 由于golang的特性，我们可以获得更高的性能，以及更快的加载速度
